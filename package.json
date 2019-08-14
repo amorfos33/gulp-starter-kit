@@ -17,7 +17,20 @@
   },
   "homepage": "https://github.com/amorfos33/gulp-starter-kit#readme",
   "devDependencies": {
+    "browser-sync": "latest",
+    "del": "^5.0.0",
     "gulp": "^4.0.2",
-    "gulp-sass": "^4.0.2"
+    "gulp-autoprefixer": "latest",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "latest",
+    "gulp-filter": "^6.0.0",
+    "gulp-imagemin": "latest",
+    "gulp-inject": "latest",
+    "gulp-jade": "latest",
+    "gulp-rename": "latest",
+    "gulp-sass": "latest",
+    "gulp-uglify": "latest",
+    "main-bower-files": "^2.13.1",
+    "wiredep": "^4.0.0"
   }
 }

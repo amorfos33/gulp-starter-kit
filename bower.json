@@ -1,0 +1,22 @@
+{
+  "name": "gulp-starter-kit",
+  "description": "gulp starter",
+  "main": "index.js",
+  "authors": [
+    "Arthur Avdymyrets"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/amorfos33/gulp-starter-kit",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.4.1",
+    "bootstrap-material-design": "^4.1.2"
+  }
+}
